@@ -4,7 +4,7 @@
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/0xSingh/)
   [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/0xSingh/)
   
-  Hi, I'm [Akash Singh](0xSingh.com), a passionate self-taught Hacker and Programmer from India.
+  Hi, I'm [Akash Singh](https://0xsingh.github.io/), a passionate self-taught  Programmer from India.
   
 <!--
 **0xSingh/0xSingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
