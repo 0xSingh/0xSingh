@@ -11,11 +11,7 @@
 -->
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I actively participate in CTFs
-- :bug: I report bugs to bug bounty programs in my spare time
-- :video_game: I love to play CS:GO
 - 🌱 I’m currently learning **JavaScript**
-- 🥅 2021 Goals: Join **Red Team**
 - 💬 Ask me about : **Python, Open Source, Content Creation**
 - 📫 How to reach me: [@0xSingh](https://twitter.com/0xSingh)
 
