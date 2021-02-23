@@ -11,7 +11,7 @@
 -->
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning **JavaScript**                                                                                   ![](http://gph.is/Z14bbO)
+- 🌱 I’m currently learning **JavaScript**                                                                                   ![](https://giphy.com/gifs/PRU4TqzdyLCHS/html5)
 - 💬 Ask me about : **Python, Open Source, Content Creation**
 - 📫 How to reach me: [@0xSingh](https://twitter.com/0xSingh)
 
